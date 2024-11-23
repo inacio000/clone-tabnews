@@ -1,2 +1,2 @@
 # clone-tabnews
-Implementação do https://www.tabnews.com.br 🙂
+Implementando a construção de um *pedaço de internet mais massa* <a href="https://www.tabnews.com.br" target="_blank">Tabnews</a>🔗 🙂
