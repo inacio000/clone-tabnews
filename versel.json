@@ -1,14 +1,5 @@
 {
-    "builds": [
-        {
-            "pages": "index.js",
-            "framework": "nextjs"
-        }
-    ],
-    "routes": [
-        {
-            "pages": "/(.*)",
-            "dest": "index.js"
-        }
+    "rewrites": [
+      { "source": "/(.*)", "destination": "/pages" }
     ]
-}
+  }
