@@ -1,15 +1,3 @@
 {
-    "version": 2,
-    "builds": [
-        {
-            "pages": "pages/index.js",
-            "use": "@vercel/node"
-        }
-    ],
-    "routes": [
-        {
-            "pages": "/(.*)",
-            "dest": "pages/index.js"
-        }
-    ]
+    "framework": "nextjs"
 }
