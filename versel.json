@@ -1,3 +1,14 @@
 {
-    "framework": "nextjs"
+    "builds": [
+        {
+            "pages": "index.js",
+            "framework": "nextjs"
+        }
+    ],
+    "routes": [
+        {
+            "pages": "/(.*)",
+            "dest": "index.js"
+        }
+    ]
 }
