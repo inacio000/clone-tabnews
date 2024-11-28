@@ -1,5 +1,5 @@
 function Home() {
-    return <h1 align="center">No decorrer do <a href="www.curso.dev">curso.dev</a> farei parte da concorrência, mas no final eu serei um Programador F#d#</h1>
+    return <h1 align="center">O <strong>Conhecimento</strong>, ninguém tira de ti e é isso que estou recebendo no <a href="www.curso.dev">curso.dev</a> 😎</h1>
 }
 
 export default Home;
